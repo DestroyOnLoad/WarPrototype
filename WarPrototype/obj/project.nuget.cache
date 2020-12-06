@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzWeDwZRZK0aeQQIk4hD1r8hyhEYxLwDnqvwGDIUfYjMh4cnpc4dfM7Evmbs3cGlEK93aUe9kYLBMTcRjgrWfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PCMiner1\\source\\repos\\WarPrototype\\WarPrototype\\WarPrototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCMiner1\\.nuget\\packages\\shipwreck.phash\\0.5.0\\shipwreck.phash.0.5.0.nupkg.sha512",
+    "C:\\Users\\PCMiner1\\.nuget\\packages\\shipwreck.phash.presentationcore\\0.5.0\\shipwreck.phash.presentationcore.0.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

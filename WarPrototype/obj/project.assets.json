@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shipwreck.Phash/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/Shipwreck.Phash.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Shipwreck.Phash.dll": {}
+        }
+      },
+      "Shipwreck.Phash.PresentationCore/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Shipwreck.Phash": "0.5.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Shipwreck.Phash.PresentationCore.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Shipwreck.Phash.PresentationCore.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Shipwreck.Phash/0.5.0": {
+      "sha512": "FMeI3ZkPAjr/KlIIyagMoFCdUVADj654njRVcUC172sBGUAqdc6LRBD/3Dj9SZxbeSL1iJU4iHCTakVgva9ukQ==",
+      "type": "package",
+      "path": "shipwreck.phash/0.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Shipwreck.Phash.dll",
+        "lib/net45/Shipwreck.Phash.xml",
+        "lib/net461/Shipwreck.Phash.dll",
+        "lib/net461/Shipwreck.Phash.xml",
+        "lib/netcoreapp1.0/Shipwreck.Phash.dll",
+        "lib/netcoreapp1.0/Shipwreck.Phash.xml",
+        "lib/netcoreapp2.0/Shipwreck.Phash.dll",
+        "lib/netcoreapp2.0/Shipwreck.Phash.xml",
+        "lib/netcoreapp2.1/Shipwreck.Phash.dll",
+        "lib/netcoreapp2.1/Shipwreck.Phash.xml",
+        "lib/netcoreapp3.0/Shipwreck.Phash.dll",
+        "lib/netcoreapp3.0/Shipwreck.Phash.xml",
+        "lib/netstandard1.0/Shipwreck.Phash.dll",
+        "lib/netstandard1.0/Shipwreck.Phash.xml",
+        "lib/netstandard1.1/Shipwreck.Phash.dll",
+        "lib/netstandard1.1/Shipwreck.Phash.xml",
+        "lib/netstandard2.1/Shipwreck.Phash.dll",
+        "lib/netstandard2.1/Shipwreck.Phash.xml",
+        "shipwreck.phash.0.5.0.nupkg.sha512",
+        "shipwreck.phash.nuspec"
+      ]
+    },
+    "Shipwreck.Phash.PresentationCore/0.5.0": {
+      "sha512": "29SgDv9NuwGC286gYKyS35vU38DFk920Z6v2f35we32xwvC3tHdbxW2pVTdr0kWfhyjnVf14UyQ9gzXUOLYtAw==",
+      "type": "package",
+      "path": "shipwreck.phash.presentationcore/0.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Shipwreck.Phash.PresentationCore.dll",
+        "lib/net461/Shipwreck.Phash.PresentationCore.dll",
+        "lib/netcoreapp3.0/Shipwreck.Phash.PresentationCore.dll",
+        "shipwreck.phash.presentationcore.0.5.0.nupkg.sha512",
+        "shipwreck.phash.presentationcore.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Shipwreck.Phash.PresentationCore >= 0.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PCMiner1\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PCMiner1\\source\\repos\\WarPrototype\\WarPrototype\\WarPrototype.csproj",
+      "projectName": "WarPrototype",
+      "projectPath": "C:\\Users\\PCMiner1\\source\\repos\\WarPrototype\\WarPrototype\\WarPrototype.csproj",
+      "packagesPath": "C:\\Users\\PCMiner1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PCMiner1\\source\\repos\\WarPrototype\\WarPrototype\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PCMiner1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Shipwreck.Phash.PresentationCore": {
+            "target": "Package",
+            "version": "[0.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

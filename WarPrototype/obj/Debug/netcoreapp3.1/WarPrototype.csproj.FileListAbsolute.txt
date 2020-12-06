@@ -1,0 +1,16 @@
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\WarPrototype.exe
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\WarPrototype.deps.json
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\WarPrototype.runtimeconfig.json
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\WarPrototype.runtimeconfig.dev.json
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\WarPrototype.dll
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\WarPrototype.pdb
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.csprojAssemblyReference.cache
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.AssemblyInfoInputs.cache
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.AssemblyInfo.cs
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.dll
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.pdb
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.genruntimeconfig.cache
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\Shipwreck.Phash.dll
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\bin\Debug\netcoreapp3.1\Shipwreck.Phash.PresentationCore.dll
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.csproj.CoreCompileInputs.cache
+C:\Users\PCMiner1\source\repos\WarPrototype\WarPrototype\obj\Debug\netcoreapp3.1\WarPrototype.csproj.CopyComplete
